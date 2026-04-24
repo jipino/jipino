@@ -82,10 +82,18 @@ I believe in **reproducible, high-impact** systems—statistical rigor meets cut
 
 ## 🎯 Current Focus
 
-- **Generative AI & LLMs** — Fine-tuning, RAG, multimodal systems
+- **Generative AI & LLMs** — Fine-tuning, RAG, multimodal systems (pursuing [CENIA Diploma in GenAI](https://cenia.cl))
 - **Data Platforms** — Architecting scalable systems using Databricks & Microsoft Fabric
 - **Geospatial ML** — Large-scale satellite imagery processing and environmental monitoring
 - **Education** — Teaching Python, R, and Machine Learning to 100+ students annually at UC
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jipino&show_icons=true&theme=github_light&hide_border=true&hide=contribs&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jipino&layout=compact&theme=github_light&hide_border=true&exclude_repo=jipino.github.io)
 
 ---
 
@@ -99,9 +107,16 @@ I believe in **reproducible, high-impact** systems—statistical rigor meets cut
 
 ## 📚 Education
 
-- **Diploma in Generative AI & Language Models** — CENIA (March 2026)
 - **MSc Statistics** — Pontificia Universidad Católica de Chile (2024)
+  - Specialization: Applied Machine Learning & Generative AI
 - **BSc Statistics** — Pontificia Universidad Católica de Chile (2022)
+- **Diploma in Generative AI & Language Models** — CENIA (In Progress, 2025-2026)
+
+---
+
+## 🌿 Beyond Code
+
+Ornithology • Nature & Conservation • Geospatial exploration • Travel to southern Chile & Patagonia • Hiking & bird watching • Powerlifting
 
 ---
 
