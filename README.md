@@ -82,7 +82,7 @@ I believe in **reproducible, high-impact** systems—statistical rigor meets cut
 
 ## 🎯 Current Focus
 
-- **Generative AI & LLMs** — Fine-tuning, RAG, multimodal systems (pursuing [CENIA Diploma in GenAI](https://cenia.cl))
+- **Generative AI & LLMs** — Fine-tuning, RAG, multimodal systems
 - **Data Platforms** — Architecting scalable systems using Databricks & Microsoft Fabric
 - **Geospatial ML** — Large-scale satellite imagery processing and environmental monitoring
 - **Education** — Teaching Python, R, and Machine Learning to 100+ students annually at UC
