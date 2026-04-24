@@ -89,14 +89,6 @@ I believe in **reproducible, high-impact** systems—statistical rigor meets cut
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jipino&show_icons=true&theme=github_light&hide_border=true&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jipino&layout=compact&theme=github_light&hide_border=true&exclude_repo=jipino.github.io)
-
----
-
 ## 🔗 Connect
 
 - **Professional**: [LinkedIn](https://linkedin.com/in/juanpino-data) | [Email](mailto:jipino@alumni.uc.cl)
